@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My name is Nick
+
+And that being an h1 header makes that fact seem more important than it is
